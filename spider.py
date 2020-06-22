@@ -1,4 +1,4 @@
-# 实现网络爬虫，爬取豆瓣250网站的相关信息
+# 实现网络爬虫，爬取豆瓣250网站的相关信息 
 from bs4 import BeautifulSoup  # 进行网页解析，获取数据
 import re  # 正则表达式，进行文字匹配
 import urllib.request, urllib.error  # 制定url，获取网页数据
